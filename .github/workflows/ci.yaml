@@ -7,7 +7,7 @@ on: [workflow_dispatch]
 
 env:            
   AWS_REGION: ap-southeast-1     
-  ECR_REPOSITORY: ben-ecr
+  ECR_REPOSITORY: aldin-dev-ecr
 
 jobs:
   build:
